@@ -1,5 +1,5 @@
 # Ontologia-Religiao
-Modelo conceitual utilizando UFO sobre religiões, modelo criado e validado no editor de ontoUML, menthor.
+Modelo conceitual, utilizando ontologia de Fundamentação UFO, sobre religiões. Modelo criado e validado no editor de ontoUML, menthor.
 
 # Relato de Experiência
 Esse trabalho propõe a criação de um modelo conceitual baseado em ontologia para o contexto de religião. Foram usados conhecimentos adquiridos em sala de aula, o editor menthor para criação do modelo, através da linguagem ontoUML. As informações do domínio foram encontradas na internet, nos sites descritos no dicionário de dados e um pouco de conhecimento prévio. 
@@ -26,3 +26,6 @@ de disposição no diagrama e de relacionamentos que continuavam aparecendo mesm
 Sobre as maiores dificuldades, que ainda não mencionei foram compreensão do domínio, e decisão de definições. Por ser um domínio abstrato muitas definições não tem apenas uma fonte que seja principal e confiável, e muitos assuntos são tratados de forma diferenciada em lugares
 diferentes podendo ser contraditórias para criação do modelo. Outras dificuldades que podem ser pontuadas foram nos conceitos de relações em ontologia, e conhecimento que foi adquirido gradualmente então algumas vezes me deparei com dificuldades que foram explicadas em sala
 logo depois.
+
+# Modelo
+![ModeloRel](https://raw.githubusercontent.com/daniellic9/Ontologia-Religiao/master/fim.png)
